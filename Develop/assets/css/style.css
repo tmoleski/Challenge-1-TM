@@ -86,11 +86,17 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    margin-bottom: 32px;
+    color: #ffffff;
 }
+
+
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+}
+
 }
 
 .benefit-brand {
@@ -153,7 +159,7 @@ h3 {
 }
 
 img {
-        max-height: 200px;
+    max-height: 200px;
 }
 
 h2 {
@@ -162,10 +168,6 @@ h2 {
 }
 
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
